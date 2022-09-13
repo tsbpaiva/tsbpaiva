@@ -2,7 +2,7 @@
 <h3 align="center">I'm using my long-established language skills to talk with computers</h3>
 <h6 align="center">(which is just a fun way to say that, after years as a translator, I'm now a programmer)</h6>
 
-<br>
+📖 Once upon a time, I was a book publisher, game translator and start-up founder in Rio de Janeiro, Brazil. Now I'm a fullstack web developer in Munich, Germany. Kudos to whoever writes the script of Life, cause the plot twist are on point.
 
 🚀 Recently graduated from Le Wagon, my goal is to learn more JavaScript and consolidate my Rails skills.
 
@@ -10,9 +10,10 @@
 
 👯 I’m working with friends to improve our web app, [tripstr.](www.tripstr.lol)
 
+💕 I love pets, I'm a music enthusiast and I collect interesting idiomatic expressions in Portuguese 🇧🇷
+
 📫 Write me at **hello@thaispaiva.info**
 
-💕 I love pets, I'm a music enthusiast and I collect interesting idiomatic expressions in Portuguese 🇧🇷
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
