@@ -1,14 +1,15 @@
 <h1 align="center">Hi, I'm Thaís</h1>
-<h3 align="center">I'm using my long-established language skills to talk with computers</h3>
-<h6 align="center">(which is just a fun way to say that, after years as a translator, I'm now a programmer)</h6>
+<h3 align="center">I'm using my long-established language skills to talk with computers<br>(which is just a fun way to say that, after years as a translator, I'm now a programmer)</h3>
 
-📖 Once upon a time, I was a book publisher, game translator and start-up founder in Rio de Janeiro, Brazil. Now I'm a fullstack web developer in Munich, Germany. Kudos to whoever writes the script of Life, cause the plot twist are on point.
+📖 Once upon a time, I was a book publisher, game translator and start-up founder in Rio de Janeiro, Brazil. Now I'm a fullstack web developer in Munich, Germany. Kudos to whoever writes the script of Life, because the plot twist are on point.
 
-🚀 Recently graduated from Le Wagon, my goal is to learn more JavaScript and consolidate my Rails skills.
+🚀 Recently graduated from Le Wagon, my goal is to learn more JavaScript and consolidate my Rails skills
 
 🔭 I’m looking for a job **as fullstack web developer**
 
 👯 I’m working with friends to improve our web app, [tripstr.](www.tripstr.lol)
+
+💎 I'm also interested in UX/UI and I value good design
 
 💕 I love pets, I'm a music enthusiast and I collect interesting idiomatic expressions in Portuguese 🇧🇷
 
